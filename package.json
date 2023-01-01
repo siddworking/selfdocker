@@ -1,0 +1,22 @@
+{
+  "name": "selfdocker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siddworking/selfdocker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/siddworking/selfdocker/issues"
+  },
+  "homepage": "https://github.com/siddworking/selfdocker#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
